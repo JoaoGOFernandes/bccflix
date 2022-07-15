@@ -13,4 +13,9 @@ export const FooterBase = styled.footer`
   @media (max-width: 800px) {
     margin-bottom: 50px;
   }
+  img{
+    margin-bottom: 6px;
+    height: 35px;
+  }
 `;
+
